@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+<!-- Komentarz -->
+
+Z dodatkowych plusów nie udało mi sie zrobić sortowania. Zadanie na 6 zostało wykonane :)
